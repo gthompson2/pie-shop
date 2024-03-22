@@ -1,4 +1,10 @@
+using pie_shop.Models;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// Registering our mock repository services with the application's DI container
+builder.Services.AddScoped<ICategoryRepository, MockCategoryRepository>();
+builder.Services.AddScoped<IPieRepository, MockPieRepository>();
 
 //Enabling MVC in the application
 builder.Services.AddControllersWithViews(); 
