@@ -1,7 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using pieShop.Models;
+using pie_Shop.ViewModels;
+using pie_Shop.Models;
 
-namespace pieShop.Controllers
+namespace pie_Shop.Controllers
 {
     public class PieController : Controller
     {
@@ -16,8 +17,10 @@ namespace pieShop.Controllers
 
         public IActionResult List()
         {
-            ViewBag.CurrentCategory = "Cheese cakes"; // ViewBag: dynamic object shared between controller and view
-            return View(_pieRepository.AllPies);
+            //ViewBag.CurrentCategory = "Cheese cakes"; // ViewBag: dynamic object shared between controller and view
+            //return View(_pieRepository.AllPies);
+            PieListViewModel piesListViewModel = new PieListViewModel(_pieRepository.AllPies, "Cheese cakes");
+            return View(piesListViewModel);
         }
     }
 }

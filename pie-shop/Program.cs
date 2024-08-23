@@ -1,4 +1,4 @@
-using pieShop.Models;
+using pie_Shop.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
