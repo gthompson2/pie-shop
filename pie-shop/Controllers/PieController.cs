@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using pie_shop.Models;
+using pieShop.Models;
 
-namespace pie_shop.Controllers
+namespace pieShop.Controllers
 {
     public class PieController : Controller
     {
@@ -16,6 +16,7 @@ namespace pie_shop.Controllers
 
         public IActionResult List()
         {
+            ViewBag.CurrentCategory = "Cheese cakes"; // ViewBag: dynamic object shared between controller and view
             return View(_pieRepository.AllPies);
         }
     }

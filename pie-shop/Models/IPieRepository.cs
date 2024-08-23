@@ -1,4 +1,4 @@
-﻿namespace pie_shop.Models
+﻿namespace pieShop.Models
 {
     public interface IPieRepository
     {
