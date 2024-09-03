@@ -26,3 +26,5 @@ C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Deb
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.pdb
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.genruntimeconfig.cache
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\ref\pie-shop.dll
+C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\bin\Debug\net8.0\libman.json
+C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\bin\Debug\net8.0\pie-shop.staticwebassets.runtime.json
