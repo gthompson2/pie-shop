@@ -1,3 +1,11 @@
+C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.AssemblyInfoInputs.cache
+C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.AssemblyInfo.cs
+C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.csproj.CoreCompileInputs.cache
+C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.RazorAssemblyInfo.cache
+C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.RazorAssemblyInfo.cs
+C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.sourcelink.json
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\bin\Debug\net8.0\appsettings.Development.json
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\bin\Debug\net8.0\appsettings.json
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\bin\Debug\net8.0\pie-shop.exe
@@ -5,12 +13,6 @@ C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\bin\Deb
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\bin\Debug\net8.0\pie-shop.runtimeconfig.json
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\bin\Debug\net8.0\pie-shop.dll
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\bin\Debug\net8.0\pie-shop.pdb
-C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.GeneratedMSBuildEditorConfig.editorconfig
-C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.AssemblyInfoInputs.cache
-C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.AssemblyInfo.cs
-C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.csproj.CoreCompileInputs.cache
-C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.MvcApplicationPartsAssemblyInfo.cache
-C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.sourcelink.json
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\staticwebassets.build.json
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\staticwebassets.development.json
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\staticwebassets\msbuild.pie-shop.Microsoft.AspNetCore.StaticWebAssets.props
@@ -24,3 +26,5 @@ C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Deb
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.pdb
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\pie-shop.genruntimeconfig.cache
 C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\obj\Debug\net8.0\ref\pie-shop.dll
+C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\bin\Debug\net8.0\libman.json
+C:\Git\Pluralsight\.NET 6+\aspdotnet-core-fundamentals\pie-shop\pie-shop\bin\Debug\net8.0\pie-shop.staticwebassets.runtime.json
