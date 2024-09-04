@@ -1,4 +1,4 @@
-﻿namespace pie_Shop.Models
+﻿namespace PieShop.Models
 {
     public class Pie
     {

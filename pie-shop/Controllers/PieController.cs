@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using pie_Shop.ViewModels;
-using pie_Shop.Models;
+using PieShop.ViewModels;
+using PieShop.Models;
 
-namespace pie_Shop.Controllers
+namespace PieShop.Controllers
 {
     public class PieController : Controller
     {
