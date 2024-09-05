@@ -20,7 +20,7 @@
             }
         }
 
-        public Pie? GetPieByID(int pieId) => AllPies.FirstOrDefault(p => p.PieId == pieId);
+        public Pie? GetPieById(int pieId) => AllPies.FirstOrDefault(p => p.PieId == pieId);
 
         public IEnumerable<Pie> SearchPies(string searchQuery)
         {
