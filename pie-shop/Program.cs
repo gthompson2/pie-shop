@@ -28,5 +28,5 @@ if (app.Environment.IsDevelopment())
     app.UseDeveloperExceptionPage(); // diagnostic middleware - always shows the exception page
 }
 app.MapDefaultControllerRoute(); // Defaults used in MVC to route to our views
-
+DbInitializer.Seed(app);
 app.Run();
