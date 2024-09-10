@@ -1,6 +1,6 @@
-﻿using pie_Shop.Models;
+﻿using PieShop.Models;
 
-namespace pie_Shop.ViewModels
+namespace PieShop.ViewModels
 {
     public class PieListViewModel
     {
